@@ -1,1 +1,101 @@
-[{"brand":"Escape Time","name":"Escape Circus","description":"1932, un cirque ancien et mystérieux, une troupe d'artistes incroyables mais bien étranges… Le complice de Vincent Lenoir se cache parmi eux. Serez-vous suffisamment perspicaces pour démasquer le coupable avant que la porte temporelle ne se désactive à tout jamais ?","snooping":25,"handling":10,"thinking":65,"rating":null,"userRating":null,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2019/02/escape-circus.jpg","domain":"https://www.escapegame.fr/barjouville/escape-time-chartres/circus-chartres/","roomSpecs":[{"Thème":"Enquête | Explorateur"},{"Niveau":"Pour débuter"},{"Nombre de joueurs":"3 à 8 joueurs"}]},{"brand":"Escape Time","name":"Time Lab","description":"Faites les bons choix pour survivre à une invasion d'infectés. Dans cette aventure, vous devrez non pas vous échapper le plus rapidement mais tenir le plus longtemps possible ! Vos décisions impacteront le déroulement de la mission.","snooping":25,"handling":25,"thinking":50,"rating":null,"userRating":null,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2010/09/21981943_491142184582509_2046877536_o.jpg","domain":"https://www.escapegame.fr/barjouville/escape-time-chartres/time-lab-chartres/","roomSpecs":[{"Thème":"Science-Fiction | Fantastique"},{"Niveau":"Difficile"},{"Nombre de joueurs":"3 à 8 joueurs"}]},{"brand":"Escape Time","name":"Le Silver Express","description":"Vincent Lenoir a donné rendez-vous aux agents d'Escape Time en 1890 dans un prestigieux train américain : le Silver Express. Le moment de la rencontre a enfin sonné. Mais peut-être est-ce un piège ?","snooping":35,"handling":35,"thinking":30,"rating":null,"userRating":null,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2018/04/silver-express-escape-time.jpg","domain":"https://www.escapegame.fr/barjouville/escape-time-chartres/silver-express-chartres/","roomSpecs":[{"Thème":"Enquête | Explorateur"},{"Niveau":"Intermédiaire"},{"Nombre de joueurs":"3 à 6 joueurs"}]},{"brand":"ClockWise","name":"Le temple de Xibalba","description":"Un collectionneur excentrique, Lord Henry Fleming, vous a confié la mission d’aller chercher un trésor maya dont il a découvert l’existence dans le journal du conquistador Hernan Cortès. D’après la légende, le temple ne s’offre à vous qu’une heure par an, au solstice d’hiver. Il vous a équipés et vous a même donné de l’argent pour vos différents frais sur place.\n\nPourtant, par peur de vous voir refuser la mission sans doute, il ne vous à pas indiqué ce que vous deviez lui rapporter. Seule information importante, si vous réussissez il fera de vous des hommes riches !","snooping":null,"handling":null,"thinking":null,"rating":null,"userRating":null,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2020/06/xibalba.jpg","domain":"https://www.escapegame.fr/barjouville/clockwise/xibalba/","roomSpecs":[{"Thème":"Pyramide | Temple"},{"Nombre de joueurs":"2 à 5 joueurs"}]},{"brand":"ClockWise","name":"Rikers Island Penitentiary","description":"Vous et vos amis êtes accusés à tort de revente de drogue lors d’une grande fête aux États-Unis. En tant qu'organisateur de cette pool party, vous êtes considérés comme responsable. Sans moyen de prouver que vous n'êtes pas à l'origine de ce deal devant la justice américaine, vous êtes envoyés directement en prison, en attendant votre jugement.\n\nMais dans votre mésaventure, il vous reste une chance de pouvoir vous en sortir si vous parvenez à prendre le prochain avion de retour pour la France, avant que vos noms ne figurent dans les fichiers du pays tout entier et que vous ne puissiez plus quitter le territoire ! Seulement, pour cela il faut s’évader !","snooping":null,"handling":null,"thinking":null,"rating":null,"userRating":96,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2020/06/rikers-island.jpg","domain":"https://www.escapegame.fr/barjouville/clockwise/rikers-island/","roomSpecs":[{"Thème":"Prison | Évasion"},{"Nombre de joueurs":"2 à 5 joueurs"}]},{"brand":"ClockWise","name":"Le cas Mathilda","description":"Vous avez été contactés par l’archevêque du diocèse de la ville de Chartres pour résoudre une mystérieuse disparition. À votre arrivée à l’église de la Sainte Trinité, dans le petit village de Mortyville-sur-Eure, la gardienne vous accueille, paniquée. Un prêtre avait été contacté pour pratiquer un exorcisme sur une petite fille du village, Mathilda. Celle-ci s’est retranchée dans l’église qui a la réputation d’avoir été le repaire de plusieurs groupes occultes au fil des siècles.\n\nMalheureusement, les choses ont mal tourné et le prêtre ainsi que Mathilda ont disparu la nuit dernière pendant qu’il tentait d’expulser l’entité maléfique qui avait pris possession d’elle. Il est 23 heures, nous sommes le 31 août 1972, vous avez une heure pour comprendre ce qui a bien pu arriver avant que le démon n'ait pris définitivement possession de Mathilda.","snooping":null,"handling":null,"thinking":null,"rating":null,"userRating":null,"thumbnail":"https://escapegame.imgix.net/wp-content/uploads/2020/06/mathilda.jpg","domain":"https://www.escapegame.fr/barjouville/clockwise/cas-mathilda/","roomSpecs":[{"Thème":"Horreur | Paranormal"},{"Nombre de joueurs":"2 à 5 joueurs"}]}]
+[
+  {
+    "brand": "Escape Time",
+    "name": "Escape Circus",
+    "description": "1932, un cirque ancien et mystérieux, une troupe d'artistes incroyables mais bien étranges… Le complice de Vincent Lenoir se cache parmi eux. Serez-vous suffisamment perspicaces pour démasquer le coupable avant que la porte temporelle ne se désactive à tout jamais ?",
+    "snooping": 25,
+    "handling": 10,
+    "thinking": 65,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/02/escape-circus.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/escape-time-chartres/circus-chartres/",
+    "roomSpecs": [
+      { "Thème": "Enquête | Explorateur" },
+      { "Niveau": "Pour débuter" },
+      { "Nombre de joueurs": "3 à 8 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Time",
+    "name": "Time Lab",
+    "description": "Faites les bons choix pour survivre à une invasion d'infectés. Dans cette aventure, vous devrez non pas vous échapper le plus rapidement mais tenir le plus longtemps possible ! Vos décisions impacteront le déroulement de la mission.",
+    "snooping": 25,
+    "handling": 25,
+    "thinking": 50,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2010/09/21981943_491142184582509_2046877536_o.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/escape-time-chartres/time-lab-chartres/",
+    "roomSpecs": [
+      { "Thème": "Science-Fiction | Fantastique" },
+      { "Niveau": "Difficile" },
+      { "Nombre de joueurs": "3 à 8 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Time",
+    "name": "Le Silver Express",
+    "description": "Vincent Lenoir a donné rendez-vous aux agents d'Escape Time en 1890 dans un prestigieux train américain : le Silver Express. Le moment de la rencontre a enfin sonné. Mais peut-être est-ce un piège ?",
+    "snooping": 35,
+    "handling": 35,
+    "thinking": 30,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2018/04/silver-express-escape-time.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/escape-time-chartres/silver-express-chartres/",
+    "roomSpecs": [
+      { "Thème": "Enquête | Explorateur" },
+      { "Niveau": "Intermédiaire" },
+      { "Nombre de joueurs": "3 à 6 joueurs" }
+    ]
+  },
+  {
+    "brand": "ClockWise",
+    "name": "Le temple de Xibalba",
+    "description": "Un collectionneur excentrique, Lord Henry Fleming, vous a confié la mission d’aller chercher un trésor maya dont il a découvert l’existence dans le journal du conquistador Hernan Cortès. D’après la légende, le temple ne s’offre à vous qu’une heure par an, au solstice d’hiver. Il vous a équipés et vous a même donné de l’argent pour vos différents frais sur place.\n\nPourtant, par peur de vous voir refuser la mission sans doute, il ne vous à pas indiqué ce que vous deviez lui rapporter. Seule information importante, si vous réussissez il fera de vous des hommes riches !",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2020/06/xibalba.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/clockwise/xibalba/",
+    "roomSpecs": [
+      { "Thème": "Pyramide | Temple" },
+      { "Nombre de joueurs": "2 à 5 joueurs" }
+    ]
+  },
+  {
+    "brand": "ClockWise",
+    "name": "Rikers Island Penitentiary",
+    "description": "Vous et vos amis êtes accusés à tort de revente de drogue lors d’une grande fête aux États-Unis. En tant qu'organisateur de cette pool party, vous êtes considérés comme responsable. Sans moyen de prouver que vous n'êtes pas à l'origine de ce deal devant la justice américaine, vous êtes envoyés directement en prison, en attendant votre jugement.\n\nMais dans votre mésaventure, il vous reste une chance de pouvoir vous en sortir si vous parvenez à prendre le prochain avion de retour pour la France, avant que vos noms ne figurent dans les fichiers du pays tout entier et que vous ne puissiez plus quitter le territoire ! Seulement, pour cela il faut s’évader !",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": 96,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2020/06/rikers-island.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/clockwise/rikers-island/",
+    "roomSpecs": [
+      { "Thème": "Prison | Évasion" },
+      { "Nombre de joueurs": "2 à 5 joueurs" }
+    ]
+  },
+  {
+    "brand": "ClockWise",
+    "name": "Le cas Mathilda",
+    "description": "Vous avez été contactés par l’archevêque du diocèse de la ville de Chartres pour résoudre une mystérieuse disparition. À votre arrivée à l’église de la Sainte Trinité, dans le petit village de Mortyville-sur-Eure, la gardienne vous accueille, paniquée. Un prêtre avait été contacté pour pratiquer un exorcisme sur une petite fille du village, Mathilda. Celle-ci s’est retranchée dans l’église qui a la réputation d’avoir été le repaire de plusieurs groupes occultes au fil des siècles.\n\nMalheureusement, les choses ont mal tourné et le prêtre ainsi que Mathilda ont disparu la nuit dernière pendant qu’il tentait d’expulser l’entité maléfique qui avait pris possession d’elle. Il est 23 heures, nous sommes le 31 août 1972, vous avez une heure pour comprendre ce qui a bien pu arriver avant que le démon n'ait pris définitivement possession de Mathilda.",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2020/06/mathilda.jpg",
+    "domain": "https://www.escapegame.fr/barjouville/clockwise/cas-mathilda/",
+    "roomSpecs": [
+      { "Thème": "Horreur | Paranormal" },
+      { "Nombre de joueurs": "2 à 5 joueurs" }
+    ]
+  }
+]

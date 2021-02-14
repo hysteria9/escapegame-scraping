@@ -146,7 +146,9 @@ const getRoomsPerCities = async (browser, dataCity) => {
         }
       );
     });
-    //console.log("titre : " + title);
+    console.log(
+      `Extracting data from ${city.charAt(0).toUpperCase() + city.slice(1)}`
+    );
 
     saveToFile(rooms, city);
   } catch (error) {
