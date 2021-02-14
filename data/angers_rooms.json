@@ -1,0 +1,85 @@
+[
+  {
+    "brand": "Escape Yourself",
+    "name": "De l’autre côté du miroir",
+    "description": "Poussés par votre curiosité, vous ouvrez une étrange porte… Et soudain, c'est le monde des merveilles d'Alice qui s'offre à vous. Un monde plein de fantaisie mais aussi plein de malice !\n\nPour revenir à la réalité, il faudra déjouer les pièges de la Reine de cœur, et ce ne sera pas chose aisée !",
+    "snooping": 40,
+    "handling": 25,
+    "thinking": 35,
+    "rating": null,
+    "userRating": 76,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/12/escape-yourself-alice.jpg",
+    "domain": "https://www.escapegame.fr/angers/escape-yourself-angers/autre-cote-du-miroir-angers/",
+    "roomSpecs": [
+      { "Thème": "Contes | Romans" },
+      { "Niveau": "Pour débuter" },
+      { "Nombre de joueurs": "3 à 5 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Yourself",
+    "name": "Le cabinet de curiosités",
+    "description": "Votre ami un peu fou, le collectionneur Augustin Petitbois, vient de vous envoyer un étonnant message : “Prends le premier avion et rejoins-moi vite dans mon cabinet de curiosités, j’ai fait une découverte qui pourrait remettre en cause l’Humanité entière... Mais je ne peux pas trop t’en dire, ce serait trop risqué !” Votre curiosité ainsi éveillée, vous vous rendez en urgence dans son cabinet de curiosités.\n\nÀ votre arrivée, il n'est plus là, mais son extraordinaire bureau vous réserve bien des surprises. Quel est cet objet si incroyable ? Où est le collectionneur ?",
+    "snooping": 40,
+    "handling": 25,
+    "thinking": 35,
+    "rating": null,
+    "userRating": 63,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2018/09/escape-yourself-cabinet-curiosites.jpg",
+    "domain": "https://www.escapegame.fr/angers/escape-yourself-angers/le-cabinet-de-curiosites/",
+    "roomSpecs": [
+      { "Thème": "Enquête | Explorateur" },
+      { "Niveau": "Pour débuter" },
+      { "Nombre de joueurs": "3 à 10 joueurs (sur 2 salles)" }
+    ]
+  },
+  {
+    "brand": "Escape Yourself",
+    "name": "Perdus dans l’espace",
+    "description": "Ce n'est pas comme ça que vous imaginiez votre réveil à bord de l'Escape Spaceship... Le réveil est plus mouvementé que prévu, et il va vous falloir du cran et une bonne dose de sang froid pour éviter le pire...",
+    "snooping": 35,
+    "handling": 30,
+    "thinking": 35,
+    "rating": null,
+    "userRating": 79,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/03/escape-yourself-perdus-espace.jpg",
+    "domain": "https://www.escapegame.fr/angers/escape-yourself-angers/perdus-dans-espace-angers/",
+    "roomSpecs": [
+      { "Thème": "Science-Fiction | Fantastique" },
+      { "Niveau": "Intermédiaire" },
+      { "Nombre de joueurs": "3 à 5 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Yourself",
+    "name": "Bonnet d’âne",
+    "description": "L'heure est grave ! Votre dossier scolaire va être remis à vos parents d'ici quelques jours... Et vous savez la dure punition qui vous attend ! Avec votre bande de copains, vous décidez donc de vous infiltrer dans la salle de classe pour récupérer votre dossier.\n\nMais attention, le maître sera peut-être plus malin que vous...",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2020/02/bonnet-ane.jpg",
+    "domain": "https://www.escapegame.fr/angers/escape-yourself-angers/bonnet-ane-angers/",
+    "roomSpecs": [
+      { "Thème": "Cambriolage" },
+      { "Nombre de joueurs": "3 à 5 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Adventures",
+    "name": "La voix de Londres",
+    "description": "Le 1er juin 1944, à l’approche du débarquement en Normandie, vous êtes envoyés d’urgence chez un résistant capturé par la Waffen-SS. Au milieu de cartes, d’équipements radio, de photos, de fiches, vous devez retrouver l’heure et le lieu de largage d’un « colis » de la plus haute importance en provenance d’un avion de Londres. Et ceci avant que la Waffen-SS n’arrive et que vous soyez capturés à votre tour.\n\nSaurez-vous répondre à l’appel de la Résistance ?",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": 60,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2017/01/15871969_1208143262601245_3119416114997457809_n.jpg",
+    "domain": "https://www.escapegame.fr/angers/escape-adventures/la-voix-de-londres/",
+    "roomSpecs": [
+      { "Thème": "Enquête | Explorateur" },
+      { "Nombre de joueurs": "3 à 5 joueurs" }
+    ]
+  }
+]

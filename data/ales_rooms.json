@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "Alès Horror Story",
+    "name": "Hôtel Transylv’Alès",
+    "description": "Bravo, vous êtes l’heureux gagnant de notre grande loterie ! Votre prix ? Vous avez gagné un week-end en pension complète dans notre charmant hôtel ! Et tenez vous bien, vous pouvez séjourner avec le nombre de personnes de votre choix !\n\nQuelle chance ! Vous voilà donc partis avec vos amis, votre famille ou vos collègues pour un séjour de pure détente… ou presque ! Mal vous en à pris ! L’hôtel est depuis bien longtemps abandonné. De ses occupants, vous ne trouvez que les « restes » du personnel, aucun client dans cet accueil aux airs victorien, juste une odeur de mort qui plane autour de vous…",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/09/hotel-transylvales.jpg",
+    "domain": "https://www.escapegame.fr/ales/ales-horror-story/hotel-transylvales/",
+    "roomSpecs": [
+      { "Thème": "Horreur | Paranormal" },
+      { "Nombre de joueurs": "3 à 6 joueurs" }
+    ]
+  },
+  {
+    "brand": "Alès Horror Story",
+    "name": "Asylum",
+    "description": "Un samedi soir comme bien d’autres, une petite fête entre amis/en famille qui se finit… aux urgences, après vous êtres coupé avec un verre ébréché en voulant faire l’interessant(e). Vos amis/votre famille, voyant que vous êtes légèrement ivre et que vous perdez beaucoup de sang, proposent de vous emmener aux urgences…\n\nJustement, à la table à côté de la vôtre, un gentil médecin se propose de vous aider… « C’est un coup du destin ! », vous dit-il : il travaille aux urgences et par chance, ce soir, il a l’ambulance garée dans la rue juste derrière. Vous et vos amis accompagnez donc le prétendu médecin…",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/09/asylum.jpg",
+    "domain": "https://www.escapegame.fr/ales/ales-horror-story/asylum-ales/",
+    "roomSpecs": [
+      { "Thème": "Asile | Hôpital" },
+      { "Nombre de joueurs": "3 à 6 joueurs" }
+    ]
+  },
+  {
+    "brand": "Alès Horror Story",
+    "name": "La bouchère",
+    "description": "Vous avez décidé de passer une soirée en famille (ou avec des amis), et pour ce faire vous avez eu envie de préparer un bon repas ! Direction donc la boucherie, pour choisir votre viande… En bas de votre immeuble, justement, une enseigne est encore ouverte. Malheureusement, la bouchère qui tient la boutique n’est pas celle que vous croyez ! La viande est bourrée de somnifères et après avoir fini votre repas bien arrosé, vous et vos invités sombrez dans un profond sommeil…\n\nVous vous réveillez quelques heures plus tard dans… l’antre de la bouchère ! On vous avait pourtant raconté la légende urbaine de la bouchère sanguinaire et cannibale qui sévit dans les rues d’Alès, on vous avait dit qu’elle capturait et enfermait ses victimes pour pratiquer des jeux sadiques ! Mais vous n’avez jamais voulu y croire… Erreur fatale !",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2019/01/la-bouchere-ales-horror-stor.jpg",
+    "domain": "https://www.escapegame.fr/ales/ales-horror-story/bouchere/",
+    "roomSpecs": [
+      { "Thème": "Horreur | Paranormal" },
+      { "Nombre de joueurs": "3 à 6 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Room Alès",
+    "name": "Les pirates",
+    "description": "Nous sommes en 1751 , vous faites partie de l'équipage du « Goéland », navire de marchandises français. À la tombée de la nuit, alors que vous naviguez dans la mer des Caraïbes, vous êtes attaqués par le « Sanginaire ». Ce bateau pirate, ennemi, vous dépouille de toute votre cargaison et vous fait prisonnier à son bord.\n\nAprès deux jours sans boire ni manger, vous sentez le bateau ralentir et amarrer. Alors que les pirates descendent du bateau et commencent à décharger leur butin, vous en profitez pour vous échapper... Vous avez 60 minutes !",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2016/11/p25.jpg",
+    "domain": "https://www.escapegame.fr/ales/escape-room-ales/les-pirates/",
+    "roomSpecs": [
+      { "Thème": "Pirates" },
+      { "Nombre de joueurs": "2 à 6 joueurs" }
+    ]
+  },
+  {
+    "brand": "Escape Room Alès",
+    "name": "Sherlock Holmes",
+    "description": "Vous faites partie d'un groupe de journalistes venus interviewer le célèbre détective Sherlock Holmes à son domicile. Vous arrivez en tout début d'après-midi au 221B Baker street. Une fois sur place, vous vous apercevez que Mr Holmes est absent mais que la porte est entrouverte.\n\nAprès quelques minutes d'hésitation, vous décidez de pénétrer dans l'appartement. Une fois à l'intérieur, vous constatez qu'il est parti précipitamment car la radio est restée allumée. Tout à coup, la porte d'entrée se referme et vous vous retrouvez bloqués à l'intérieur. Vous comprenez très vite que vous allez devoir trouver la clé de la sortie.",
+    "snooping": null,
+    "handling": null,
+    "thinking": null,
+    "rating": null,
+    "userRating": null,
+    "thumbnail": "https://escapegame.imgix.net/wp-content/uploads/2017/03/270754-sherlock-holmes-character-221b-baker-street.jpg",
+    "domain": "https://www.escapegame.fr/ales/escape-room-ales/sherlock-holmes/",
+    "roomSpecs": [
+      { "Thème": "Enquête | Explorateur" },
+      { "Nombre de joueurs": "2 à 5 joueurs" }
+    ]
+  }
+]
