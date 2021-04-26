@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const URL = "https://www.escapegame.fr/";
 const location = "france";
-
+console.log("starting...");
 const getRooms = async () => {
   try {
     const browser = await puppeteer.launch();
@@ -12,29 +12,27 @@ const getRooms = async () => {
       waitUntil: "networkidle2",
     });
     const cities = await page.evaluate(() => {
-      return [...document.querySelectorAll(".all_city_list > li")].map(
+      return [...document.querySelectorAll(".all-city-list > li")].map(
         (city) => {
           return {
-            href: city.querySelector("a").getAttribute("href"),
+            href: city.querySelector("a").getAttribute("href").substring(1),
             cityFullName: city.querySelector("a").textContent,
             city: city
               .querySelector("a")
               .getAttribute("href")
-              .split(".fr/")[1]
-              .slice(0, -1),
+              .split("/")[1],
           };
         }
       );
     });
     //console.log(cities);
-    //await browser.close();
 
     for (let index = 0; index < cities.length; index++) {
       await getRoomsPerCities(browser, cities[index]);
     }
     await browser.close();
   } catch (error) {
-    console.error(error);
+    console.log(error);
   }
 };
 
@@ -60,16 +58,16 @@ const getRoomsPerCities = async (browser, dataCity) => {
     const { href, cityFullName, city } = dataCity;
     //const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(href, {
+    await page.goto(URL + href, {
       waitUntil: "networkidle2",
     });
     const rooms = await page.evaluate(() => {
-      return [...document.querySelectorAll("#jsRooms > .card-room")].map(
+      return [...document.querySelectorAll("#jsRooms > .jsCard")].map(
         (element) => {
           return {
             brand:
-              element.querySelector(".card-room-brand") &&
-              element.querySelector(".card-room-brand").textContent,
+              element.querySelector(".card-room-brand-city") &&
+              element.querySelector(".card-room-brand-city").textContent,
             name:
               element.querySelector(".card-title > a") &&
               element.querySelector(".card-title > a").textContent,
@@ -152,7 +150,7 @@ const getRoomsPerCities = async (browser, dataCity) => {
 
     saveToFile(rooms, city);
   } catch (error) {
-    console.error(error);
+    console.log(error);
   }
 };
 
